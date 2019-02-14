@@ -6,9 +6,7 @@
 </head>
 
 <picture>
-  <source media="(min-width: 650px)" srcset="P4.jpg">
-  <source media="(min-width: 465px)" srcset="P4.jpg">
-  <img src="P4.jpg" alt="P4" style="width:auto;">
+  <img src=<a href="https://www.img.in.th/image/DsTw3j"><img src="https://www.img.in.th/images/587a512be14dc716394751039570f294.jpg" alt="587a512be14dc716394751039570f294.jpg" border="0" /></a> 
 </picture>
 
 <tr>
