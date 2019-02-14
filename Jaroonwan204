@@ -5,8 +5,11 @@
 <center><H1><font color = red>ประวัติส่วนตัว</font></center>
 </head>
 
-<body bgcolor=yellow>
-<center><img src ="P4.jpg" width=300 hight=300 > </center>
+<picture>
+  <source media="(min-width: 650px)" srcset="P4.jpg">
+  <source media="(min-width: 465px)" srcset="P4.jpg">
+  <img src="img_orange_flowers.jpg" alt="Flowers" style="width:auto;">
+</picture>
 
 <tr>
 <center> <td> <H3> <font color = red>ชื่อ จรุญวรรณ สุธรรมวงศ์</font> </td> </center>
